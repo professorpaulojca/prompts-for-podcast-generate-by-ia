@@ -1,0 +1,5 @@
+Crie uma introdução amigável e envolvente para um podcast de até 30 segundos. O tema do episódio é “Como a Inteligência Artificial está transformando o mercado de trabalho”. A introdução deve conter:
+- Uma saudação ao ouvinte
+- Apresentação rápida do tema
+- Estímulo para que o ouvinte permaneça até o final
+O tom deve ser informal, inspirador e acessível a leigos.

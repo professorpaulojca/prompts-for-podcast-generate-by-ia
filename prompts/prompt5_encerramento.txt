@@ -1,0 +1,6 @@
+Crie uma conclusão marcante para o podcast. Ela deve:
+- Reforçar a importância do tema
+- Convidar os ouvintes a refletirem ou compartilharem o episódio
+- Agradecer pela audiência
+- Ter uma frase de efeito para fechar com chave de ouro
+O tom deve ser otimista e memorável.

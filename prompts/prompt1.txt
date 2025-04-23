@@ -1,0 +1,1 @@
+Prompt usado para gerar a introdução do podcast.
